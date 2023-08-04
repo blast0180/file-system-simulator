@@ -1,2 +1,2 @@
 # file-system-simulator
-A CLI file directory simulator.
+A CLI file system simulator.
